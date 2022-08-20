@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Zeeshan
 - 👀 I’m interested in programming in python, making ScrIpts :| which is my next goal
 - 🌱 I’m currently learning Oodo and Flectra ERP system module making...
-- 💞️ I’m looking to collaborate on ... idk at that point i have nothing in my Mind :D
+- 💞️ Loving and Intrested in CyberSecurity.
 - 📫 How to reach me :
 - @gmail : mhmd.zeeshan2@gmail.com
 - @twitter : @Zeeshan2Bill
